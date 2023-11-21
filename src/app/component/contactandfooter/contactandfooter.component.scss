@@ -1,0 +1,123 @@
+   
+#contactme{
+    padding-left: 600px;
+    color: #007fff;
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+    font-weight: 900;
+          }
+    
+    
+    #yourname{
+      border-radius: 0.375rem;
+      width: 400px;
+      height: 40px;
+      margin-left: 300px;
+      display: inline;
+      border-color: black;
+    
+    }
+    #youremail{
+      border-radius: 0.375rem;
+      display: inline;
+      border-color: black;
+      width: 400px;
+      height: 40px;
+      margin-left: 40px;
+    
+    }
+    #subject{
+      border-color: black;
+      border-radius: 0.375rem;
+      width: 850px;
+      height: 40px;
+      margin-left: 300px;
+      margin-top: 20px;
+    }
+    #msg{
+      border-color: black;
+      border-radius: 0.375rem;
+      width: 850px;
+      height: 150px;
+      margin-left: 300px;
+      margin-top: 20px;
+    
+    }
+    .sendmsg{
+      margin-left: 650px;
+      border-radius: 8px;
+    border-color: #007BB8;
+    color:#007fff;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 30px;
+    }
+    .sendmsg:hover{
+      background-color:#007fff;
+    color:white;
+    
+    } 
+    
+    .social{
+        margin-top: 100px;
+        background-color: #007BB8;
+        height: 300px;
+        width: 1440px;
+        text-align: center;
+        padding:30px;
+    }
+    
+    
+    .social a{
+        color:#fff;
+      line-height:30px;
+      font-size:30px;
+      margin: 0 5px;
+      text-decoration:none;
+      margin-top: 20px;
+    }
+    .social a i{
+        line-height:30px;
+      font-size:30px;
+      -webkit-transition: all 200ms ease-in;
+      -webkit-transform: scale(1); 
+      -ms-transition: all 200ms ease-in;
+      -ms-transform: scale(1); 
+      -moz-transition: all 200ms ease-in;
+      -moz-transform: scale(1);
+      transition: all 200ms ease-in;
+      transform: scale(1);
+      margin-top: 50px;
+    }
+    .social a:hover i{
+      box-shadow: 0px 0px 150px #000000;
+      z-index: 2;
+      -webkit-transition: all 200ms ease-in;
+      -webkit-transform: scale(1.5);
+      -ms-transition: all 200ms ease-in;
+      -ms-transform: scale(1.5);   
+      -moz-transition: all 200ms ease-in;
+      -moz-transform: scale(1.5);
+      transition: all 200ms ease-in;
+      transform: scale(1.5);
+    }
+    
+    .policy{
+    
+      color: white;
+      font-size: 10px;
+      margin-top: 30px;
+    }
+    
+    .policy a{
+      
+      font-size: 20px;
+      margin-left: 20px;
+    }
+    
+    .copyright{
+    color: white;
+    }

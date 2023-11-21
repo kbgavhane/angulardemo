@@ -1,0 +1,40 @@
+#navbar a{
+
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    padding: 15px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    color:Grey;
+  
+    }
+    
+#navbar {
+  display: inline;
+}
+
+    
+    #navbar a.active{
+
+    color:#33b864;
+
+    }
+    
+    .hireme1:hover {
+        background-color: #007fff;
+        color:white;
+        }
+        .hireme1 {
+      
+        border-radius: 8px;
+        border-color: #007fff;
+        color:#007fff;
+        padding: 10px 15px;
+        text-align:center;
+        display: inline-block;
+        font-family: 'Roboto', sans-serif;
+        font-size: 16px;
+        margin: 15px 10px;
+        }
+    
